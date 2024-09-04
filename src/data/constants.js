@@ -10,7 +10,7 @@ export const Bio = {
     description:
         'As a motivated and versatile individual, I am always eager to take on new challenges and deliver high-quality results. With a positive attitude and a growth mindset, I am dedicated to expanding my knowledge and skills, allowing me to make a meaningful contribution and achieve great things.',
     github: 'https://github.com/GopalGod123',
-    resume: 'https://drive.google.com/file/d/11VXJLaH_vzmcv6STTljQfW1K0JDAhK-r/view',
+    resume: 'https://drive.google.com/file/d/1Vm3D18CmpyY3X-PHrhVvVoWOazsHYef4/view?usp=sharing',
     linkedin: 'https://www.linkedin.com/in/gopal-khandelwal-a48380a5/',
     twitter: 'https://twitter.com/RishavChanda',
     insta: 'https://www.instagram.com/rishav_chanda/',
@@ -333,7 +333,7 @@ export const experiences = [
     },
     {
         id: 1,
-        img: 'https://planeteaters.com/wp-content/uploads/2024/02/side-pe-log-3d-copy.png',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHVB0i2I7dCfWCCuSievEEteVnvQvOtdm5Q&s',
         role: 'Software Engineer',
         company: 'Planet Eaters Game',
         date: 'Aug 2021 - FEB 2024',
@@ -438,7 +438,7 @@ export const projects = [
         date: 'Jan 2024 - Dec 2023',
         description:
             'Stock Market Analysis is a JavaScript-based web application designed to provide detailed stock market data, including real-time stock prices, historical trends, and basic predictive analytics. The app features interactive charts and a customizable dashboard for tracking various stocks.',
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWUEQuPMfw0UwUhKCH5AQwlmYidoABH6hwg&s',
+        image: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXp5MTdnZDcxOGk0MmpmeDBtdDRzemhsOWh6eG5zY2dtcm5hMmJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y31rRE5h3wyPXey8vx/giphy.webp',
         tags: [
             'React Js',
             'PostgressSQL',
@@ -457,7 +457,7 @@ export const projects = [
         date: 'Jun 2023 - Jul 2023',
         description:
             'The Employee Review System empowers administrators to assign employees for peer reviews based on their work performance. Administrators possess special privileges, including the ability to designate new administrators, create employee profiles, and assign roles such as reviewer and reviewee. The system also enables administrators to view current employees and take action, such as removing employees based on performance reviews. All reviews are securely stored in the database for future reference.',
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_9I_yIkUkrGLQuDY0lpPFqYi-9QBpYxmhw&s',
+        image: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJlaWR4MHQxd2JwZDRxdHJpajAxaXNrZnV1MDRxM2hxMW82dzl3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqXWNJswXf1InS/giphy.webp',
         tags: [
             'Docker',
             'AWS',
@@ -592,7 +592,7 @@ export const projects = [
         date: 'Jun 2023',
         description:
             'A simple to-do list application with task counter and local storage support.. Add new tasks to the to-do list.Toggle task completion with a click.Remove tasks from the list.Task counter dynamically updates.Local storage support for persisting tasks.',
-        image: 'https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633',
+        image: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhueDg1cXNjYWJjeGo5dGg5dDl4dHNnbXd5Z2JiOGYwNGJ5bGFhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xWGyVKoXqg2eVCiq9/giphy.webp',
         tags: ['React Js', 'Local Storage', 'AWS Auth', 'Node JS'],
         category: 'web app',
         github: 'https://github.com/GopalGod123/To-do-list?tab=readme-ov-file',
@@ -604,7 +604,7 @@ export const projects = [
         date: 'July 2024',
         description:
             'This is a simple Expense Tracker application built with React. It allows users to add, delete, and view expenses and income transactions. The application uses the `useReducer` hook for state management and is styled with CSS modules.',
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedch_2ecliNl5opcklePx8Ts1C7gM-OTexg&s',
+        image: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhxcXk0cnBjM2dtZ3hrdDA4eTgyMXlrNWMzdG1pMW90cTk4OTJyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzzzbEd5tUpTo8HCp5/giphy.webp',
         tags: ['React Js', 'API', 'Axios', 'Node JS'],
         category: 'web app',
         github: 'https://github.com/GopalGod123/Expense-Tracker',
@@ -616,11 +616,35 @@ export const projects = [
         date: 'Dec 2020 - Jan 2021',
         description:
             'A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.',
-        image: 'https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif',
+        image: 'https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk3ODkxOWZldTdhdzJkbGFyajV5NWUxa2Jhemt3emFoNTJuczd0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDzgyb5736rjvdGdFb/giphy.webp',
         tags: ['Java', 'Android Studio', 'Firebase', 'Google Auth'],
-        category: 'android app',
+        category: 'web app',
         github: 'https://github.com/GopalGod123/Expense-Tracker',
         webapp: 'https://expense-tracker-three-psi.vercel.app/',
+    },
+    {
+        id: 8,
+        title: 'Ecommerce Website SenDigiTech',
+        date: 'Aug 2024 - Sep 2024',
+        description:
+            'Developed a full-stack eCommerce website for a clothing store using React.js, Node.js, Express, and MongoDB. Implemented features like product browsing, shopping cart, and user authentication to enhance user experience and engagement',
+        image: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVjemNvNGdqODdsZnpscXZ4M2xyeGt6MzlheTNvZnhnejRlMm5nYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4VUfbee3XIKIN6YRoT/giphy.webp',
+        tags: ['Java', 'Android Studio', 'Firebase', 'Google Auth'],
+        category: 'web app',
+        github: 'https://github.com/GopalGod123/Sendigitech-Clothing-Store',
+        webapp: 'https://sendigitech-clothing-store.vercel.app/',
+    },
+    {
+        id: 8,
+        title: 'Portfolio Website ',
+        date: 'Aug 2023 - Sep 2023',
+        description:
+            'Developed a full-stack portfolio website for a client using React.js, Node.js, Express, and MongoDB. Implemented features',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif?20200909142238',
+        tags: ['Javascript', 'React js', 'tailwind css', 'html'],
+        category: 'web app',
+        github: 'https://github.com/GopalGod123/freellance',
+        webapp: 'https://next13-deploy-nu.vercel.app/',
     },
     // {
     //     id: 8,
